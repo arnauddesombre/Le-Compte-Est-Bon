@@ -1,5 +1,5 @@
 # LeCompteEstBon
-Le Compte Est Bon (French TV game)
+Le Compte Est Bon (from French TV game "Des chiffres et des lettres")
 
 This is a standalone Microsoft Excel Spreadsheet to play the game. The macro includes a solver.
 
