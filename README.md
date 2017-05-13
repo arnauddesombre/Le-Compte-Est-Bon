@@ -7,5 +7,5 @@ If you lived in France in the 70's and 80's, you know the game... otherwise, che
 
 ![screenshot](https://s29.postimg.org/kps5s0a7r/lecompteestbon.png)
 
-The solver would indicte the solution:
+The solver would indicate the correct solution:<br>
 ![screenshot](https://s11.postimg.org/p4e6bgyyb/lecompteestbon-solution.png)
