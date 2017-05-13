@@ -5,7 +5,7 @@ This is a standalone Microsoft Excel Spreadsheet to play the game. The embedded 
 
 If you lived in France in the 70's and 80's, you know the game... otherwise, check it out in [Wikipedia](https://en.wikipedia.org/wiki/Des_chiffres_et_des_lettres).
 
-![screenshot](https://s16.postimg.org/hju1tmxz9/lecompteestbon.png)
+![screenshot](https://s29.postimg.org/kps5s0a7r/lecompteestbon.png)
 
 The solver would indicte the solution:
 ![screenshot](https://s11.postimg.org/p4e6bgyyb/lecompteestbon-solution.png)
